@@ -1,5 +1,5 @@
-# Commaai-Autopilot-automatic-vehicle-control-algorithm
+# Commaai-Openpilot-automatic-vehicle-control-algorithm
 
--     Analyzed commaai Autopilot MPC lateral control algorithm based on kinematic vehicle model
+-     Analyzed commaai Openpilot MPC lateral control algorithm based on kinematic vehicle model
 -     Reproduced the algorithm and Tested the performance and robustness in simulated environment
 
